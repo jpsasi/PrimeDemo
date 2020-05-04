@@ -80,12 +80,6 @@
       "languageVersion": "2.3"
     },
     {
-      "name": "humanize",
-      "rootUri": "file:///Users/jpsasi/.pub-cache/hosted/pub.dartlang.org/humanize-0.2.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.1"
-    },
-    {
       "name": "image",
       "rootUri": "file:///Users/jpsasi/.pub-cache/hosted/pub.dartlang.org/image-2.1.4",
       "packageUri": "lib/",
@@ -104,12 +98,6 @@
       "languageVersion": "1.12"
     },
     {
-      "name": "nested",
-      "rootUri": "file:///Users/jpsasi/.pub-cache/hosted/pub.dartlang.org/nested-0.0.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.2"
-    },
-    {
       "name": "path",
       "rootUri": "file:///Users/jpsasi/.pub-cache/hosted/pub.dartlang.org/path-1.6.4",
       "packageUri": "lib/",
@@ -126,12 +114,6 @@
       "rootUri": "file:///Users/jpsasi/.pub-cache/hosted/pub.dartlang.org/petitparser-2.4.0",
       "packageUri": "lib/",
       "languageVersion": "2.4"
-    },
-    {
-      "name": "provider",
-      "rootUri": "file:///Users/jpsasi/.pub-cache/hosted/pub.dartlang.org/provider-4.0.5+1",
-      "packageUri": "lib/",
-      "languageVersion": "2.2"
     },
     {
       "name": "quiver",
@@ -206,7 +188,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-05-04T02:50:22.437084Z",
+  "generated": "2020-05-04T03:51:19.873132Z",
   "generator": "pub",
   "generatorVersion": "2.7.2"
 }
