@@ -1,6 +1,14 @@
-# prime_demo
+# PrimeDemo
 
-A new Flutter project.
+This project demonstrates Provider pattern and bloc pattern in Flutter
+
+## Provider Pattern
+
+Use master branch for Provider pattern
+
+## Bloc Pattern
+
+Use prime_bloc branch to use the bloc pattern without any external bloc depedency
 
 ## Getting Started
 
