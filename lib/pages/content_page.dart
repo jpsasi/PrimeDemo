@@ -7,6 +7,7 @@ class ContentPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    print('ContentPage build');
     return Scaffold(
       appBar: AppBar(
         title: Text('State Management'),
